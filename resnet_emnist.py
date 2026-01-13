@@ -396,3 +396,4 @@ if __name__ == "__main__":
     print(f"2. 每个epoch耗时: {total_time/6:.1f}秒 (平均)")
     print(f"3. 最终准确率: {accuracy:.2f}%")
     print("=" * 70)
+
