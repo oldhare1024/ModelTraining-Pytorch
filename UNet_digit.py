@@ -345,3 +345,4 @@ if __name__ == "__main__":
             print("○ 性能尚可")
     except Exception as e:
         print(f"运行出错: {e}")
+
